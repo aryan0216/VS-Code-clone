@@ -1,0 +1,160 @@
+body
+{
+  background-color: black;
+}
+#a
+{
+  color:white;
+  font-size: 25px;
+  display: inline;
+  margin:0px 30px 0px 0px;
+}
+p
+{
+  color:white;
+  font-size:20px;
+  display: inline;
+  margin:0px 20px 0px 0px;
+}
+button
+{
+  background-color: navy;
+  color:white;
+  border-color:black;
+  
+}
+form
+{
+  display:inline;
+}
+#search
+{
+  background-color:black;
+  border-color:blue;
+  border-width:2px;
+  WIDTH:150px;
+  color:white;
+}
+button:active
+{
+  background-color:green;
+  transform: translatey(4px);
+  
+  
+}
+#heading
+{
+  text-align: : center;
+  color:white;
+margin:100px 0px 0px 300px;  
+}
+
+#v
+{
+  margin:50px 0px 100px 200px; 
+  text-align:  center;
+  color:#B3C8CF;
+}
+#op
+{
+ margin:50px 100px 100px 100px;
+  color:white;
+  background-color:blackk; 
+}
+#OP3
+{
+ margin:50px 100px 100px 150px; 
+}
+#download
+{
+  background-color: navy;
+  color:white;
+  margin:50px 0px 0px 100px;
+  height:150px;
+  width:150px;
+  display: inline;
+}
+#download1
+{
+  background-color: navy;
+  color:white;
+  margin:50px 0px 0px 100px;
+  height:150px;
+  width:150px;
+  display: inline;
+}
+#download2
+{
+  background-color: navy;
+  color:white;
+  
+  height:150px;
+  width:150px;
+  display: inline;
+  
+}
+#download3
+{
+  background-color: navy;
+  color:white;
+  margin:50px 0px 0px 100px;
+  height:150px;
+  width:150px;
+  display: inline;
+}
+#USER
+{
+  background-color: navy;         
+  color:white; 
+  animation: 
+  display: inline;
+}
+#user2
+{
+  display:inline;
+}
+#USER1
+{
+ MARGIN:0PX 0PX 100PX 100PX ;
+  color:white;
+}
+#USER4
+{
+MARGIN:0PX 0PX 100PX 100PX ;
+  color:white;  
+}
+#USER5
+{
+MARGIN:0PX 0PX 100PX 150PX ;
+  color:white;  
+}
+#USER7
+{
+  MARGIN:0PX 0PX 100PX 250PX ;
+  COLOR:WHITE;
+}
+#USER8
+{
+  MARGIN:0PX 0PX 100PX 450PX ;
+  COLOR:WHITE;
+}
+#w
+{
+  MARGIN:100PX 0PX 100PX 100PX;
+  
+}
+p{
+  font-size:25px;
+  MARGIN:0PX 0PX 100PX 0PX;
+  border-block-end: 200px;
+}
+#user9
+{
+  display: inline;
+  color:silver;
+}
+h3
+{
+  display: inline;
+  margin:0px 150px 0px 100px;
+}
